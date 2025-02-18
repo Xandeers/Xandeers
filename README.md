@@ -6,6 +6,6 @@ I firmly believe in the importance of sharing knowledge, and this approach allow
 
 ### 👨‍💻: About Me :
 
-- 📚 I'm student at University of Claude Bernard Lyon 1 in the computeur science sector 
+- 📚 I'm student at University of Claude Bernard Lyon 1 in the IT sector 
 - 🔭 I’m currently working on developing my skills
 - 🌐 I’m currently learning the fundamentals of cybersecurity 
