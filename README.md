@@ -10,7 +10,7 @@ I firmly believe in the importance of sharing knowledge, and this approach allow
 - 🔭 I’m currently working on developing my skills
 - 🌐 I’m currently learning the fundamentals of cybersecurity 
 
-## 🏆 Certifications & Badges TryHackMe
+## 🏆 Certifications & Badges
 
 ### 🔐 Sécurité Web & Pentesting
 [![OWASP Top 10](https://img.shields.io/badge/TRYHACKME-OWASP_Top_10-red?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/Xaander/badges/owasp-10)
