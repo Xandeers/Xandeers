@@ -9,3 +9,9 @@ I firmly believe in the importance of sharing knowledge, and this approach allow
 - 📚 I'm student at University of Claude Bernard Lyon 1 in the IT sector 
 - 🔭 I’m currently working on developing my skills
 - 🌐 I’m currently learning the fundamentals of cybersecurity 
+
+
+## 🏆 Certifications TryHackMe
+
+### 🔐 OWASP Top 10
+[![OWASP Top 10](https://img.shields.io/badge/TRYHACKME-OWASP_Top_10-red?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/Xaander/badges/owasp-10)
