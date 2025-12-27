@@ -33,3 +33,6 @@ I firmly believe in the importance of sharing knowledge, and this approach allow
 ### 🔧 CCNA: Introduction to Networks (CCNA 1)
 [![CCNA 1: Introduction to Networks](https://img.shields.io/badge/CISCO-CCNA_1:Introduction_to_Networks-005073?style=for-the-badge&logo=cisco&logoColor=white)](https://www.credly.com/badges/b9f88e95-f0cc-4338-b952-3a95c6fb43b1/public_url)
 
+### 🔧 CCNA: Routing and Switching Essentials (CCNA 2)
+[![CCNA 2: Routing and Switching Essentials](https://img.shields.io/badge/CISCO-CCNA_2:Routing_and_Switching_Essentials-0072bc?style=for-the-badge&logo=cisco&logoColor=white)](https://www.credly.com/badges/15ba843d-ad1f-4361-91c4-fd02d60c3edc/public_url)
+
