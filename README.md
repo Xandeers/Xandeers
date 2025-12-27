@@ -27,20 +27,3 @@ I firmly believe in the importance of sharing knowledge, and this approach allow
 [![Intro to Pentesting](https://img.shields.io/badge/TRYHACKME-Intro_to_Pentesting-D0021B?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/Xaander/badges/intro-to-pentesting)
 [![Security Awareness](https://img.shields.io/badge/TRYHACKME-Security_Awareness-8B572A?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/Xaander/badges/security-awareness)
 
-
-
-
-## 🏆 TryHackMe Badges - Live Widget
-
-<div align="center">
-  
-### 🔐 My TryHackMe Progress
-<iframe 
-  src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=2438907" 
-  style="border:none; width:100%; height:400px;">
-</iframe>
-
-**👤 Profil complet : [Xaander sur TryHackMe](https://tryhackme.com/p/Xaander)**  
-*Les badges se mettent à jour automatiquement*
-
-</div>
